@@ -22,8 +22,8 @@ which is not acceptable.
 
 ## T-Tests on Suspension Coils
 
-![first_ttest]()
-![other_ttest]()
+![first_ttest](https://github.com/lindsera1/MechaCar_Statistical_Analysis/blob/main/firstttest.png)
+![other_ttest](https://github.com/lindsera1/MechaCar_Statistical_Analysis/blob/main/otherttests.png)
 
 Here we glimpsed the statistical significance of the mean between all cars at AutosRus, and each individual lot against a population mean of 1500 PSI. All 
 comparisons except for the comparison of lot 3 yielded a p value which was insignificant, meaning there was no significant difference between the population mean and the sample mean. However, looking closer at lot 3, we can see a small difference.
